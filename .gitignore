@@ -5,9 +5,9 @@ __pycache__/
 dist/
 build/
 
-# Models and plots
-models/
-plots/
+# Models and plots (keep them)
+# models/
+# plots/
 
 # IDE
 .vscode/
